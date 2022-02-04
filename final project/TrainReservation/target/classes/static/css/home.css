@@ -1,0 +1,17 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(233,233,233);
+    background-image: url("/static/images/train5.jpg");
+    background-size: cover;
+    height: 100vh;
+    background-position:center;
+}
+.container {
+    padding: 10px;
+    background-color: rgb(119,136,153);
+}
+table, th, td, tr {
+  border:1px solid black;
+  text-align: center;
+}
